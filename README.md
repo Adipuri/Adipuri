@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...github
 - 🌱 I’m currently learning ...github
 - 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ...reach with gmail
+- 📫 How to reach me ...reach with github
 
 
 <!---
